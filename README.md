@@ -1,7 +1,7 @@
 ###  Hello! I am Paul Catalan, aka [polcats][website] :computer:
 - I'm an enthusiast of various tools and tech :wrench:
 - I'm currently a software engineer for mobile and web apps :iphone: 
-- I used to work as a C++ software engineer :alien: 
+- I worked as a C++ software engineer for 2 years :alien: 
 - I create random projects that pique my interest :art:
 
 ### Tools and Technologies
@@ -28,23 +28,9 @@
 <br />
 <br />
 
-<img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true" />
+<img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&layout=compact" />
 
-
-<!--
-**polcats/polcats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [website]: https://www.polcats.tech
 [linkedin]: https://www.linkedin.com/in/polcats/
