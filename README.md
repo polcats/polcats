@@ -28,8 +28,8 @@
 <br />
 <br />
 
-<img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-<br />
+<img align="left" alt="polcats's Github Stats" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+
 <img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&layout=compact" />
 
 
