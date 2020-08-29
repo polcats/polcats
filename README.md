@@ -45,13 +45,12 @@
 <img alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
 </p>
 
-### Other Platforms
-[<img align="left" alt="polcats.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
+
 ### Follow me, I always follow back!
-![GitHub followers](https://img.shields.io/github/followers/polcats?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Updates&style=for-the-badge)
+[<img alt="" src="https://img.shields.io/github/followers/polcats?style=for-the-badge">][followers]
+[<img alt="" src="https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Tracker&style=for-the-badge">][followback]
+[<img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 
 ### GitHub Statisctics
 <img align="left" alt="polcats's Github Stats" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" /> <img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&layout=compact" />
@@ -59,3 +58,5 @@
 [website]: https://www.polcats.tech
 [linkedin]: https://www.linkedin.com/in/polcats/
 [blank]: #
+[followers]: https://github.com/polcats?tab=followers
+[followback]: https://github.com/polcats/FollowbackChecker/issues
