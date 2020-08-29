@@ -17,8 +17,8 @@
 
 
 <img alt="" src="https://img.shields.io/badge/Expo%20-%2320232a.svg?&style=flat-square&logo=expo&logoColor=%23FFFFFF" />
-<img alt="" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
-<img alt="" src="https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img alt="" src="https://img.shields.io/badge/React-JS%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img alt="" src="https://img.shields.io/badge/React-Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
 <img alt="" src="https://img.shields.io/badge/Android_Studio%20-%233DDC84.svg?&style=flat-square&logo=android%20studio&logoColor=%23000000" />
 
 
