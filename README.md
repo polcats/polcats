@@ -27,6 +27,7 @@
 <img align="left" alt="" src="https://img.shields.io/badge/nodemon%20-%2376D04B.svg?&style=for-the-badge&logo=nodemon&logoColor=%23000000" />
 <img align="left" alt="" src="https://img.shields.io/badge/mongo_db%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/jwt%20-%23000000.svg?&style=for-the-badge&logo=json%20web%20tokens&logoColor=%23FFFFFF" />
 
 <br><br>
 
