@@ -19,21 +19,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
 .. and more!
 
-<br>
-
 ### Other Platforms
 [<img align="left" alt="polcats.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
-
 ### Follow me, I always follow back!
 ![GitHub followers](https://img.shields.io/github/followers/polcats?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Updates&style=for-the-badge)
-
-<br />
-<br />
 
 ### GitHub Statisctics
 <img align="left" alt="polcats's Github Stats" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" /> <img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&layout=compact" />
