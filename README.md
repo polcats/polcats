@@ -4,6 +4,10 @@
 - I worked as a C++ software engineer for 2 years :alien: 
 - I create random projects that pique my interest :art:
 
+### Find Me
+[<img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
+[<img alt="" src="https://img.shields.io/badge/stackoverflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white">][stackoverflow]
+
 ### Technologies I work with...
 <p>
 <img alt="" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -49,13 +53,13 @@
 ### Follow me, I always follow back!
 [<img alt="" src="https://img.shields.io/github/followers/polcats?style=for-the-badge">][followers]
 [<img alt="" src="https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Tracker&style=for-the-badge">][followback]
-[<img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 
 ### GitHub Statisctics
 <img align="left" alt="polcats's Github Stats" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" /> <img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&layout=compact" />
 
 [website]: https://www.polcats.tech
 [linkedin]: https://www.linkedin.com/in/polcats/
+[stackoverflow]: https://stackoverflow.com/users/12428120/polcats
 [blank]: #
 [followers]: https://github.com/polcats?tab=followers
 [followback]: https://github.com/polcats/FollowbackChecker/issues
