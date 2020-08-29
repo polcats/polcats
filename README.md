@@ -5,7 +5,7 @@
 - I create random projects that pique my interest :art:
 
 ### Social Profiles
-[<img alt="" src="https://img.shields.io/badge/LinkedLn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">][linkedin]
+[<img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">][linkedin]
 [<img alt="" src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?&style=flat-square&logo=stackoverflow&logoColor=white">][stackoverflow]
 
 ### Technologies I work with...
