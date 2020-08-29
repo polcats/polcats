@@ -45,8 +45,6 @@
 <img alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
 </p>
 
-<br>
-
 ### Follow me, I always follow back!
 [<img alt="" src="https://img.shields.io/github/followers/polcats?style=for-the-badge">][followers]
 [<img alt="" src="https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Tracker&style=for-the-badge">][followback]
