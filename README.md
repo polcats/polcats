@@ -37,10 +37,11 @@
 
 </p>
 
-### Workspace
+### Machine
 <p>
 <img alt="" src="https://img.shields.io/badge/Nvidia-GTX_1660_TI-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/AMD-Ryzen%205%202600-%23ED1C24.svg?&style=flat-square&logo=amd&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/RAM-32%20GB-%23ED1C24.svg?&style=flat-square&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=flat-square&logo=windows&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
 </p>
