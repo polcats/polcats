@@ -38,14 +38,14 @@
 
 <br><br>
 
+### Workspace
+
+<img align="left" alt="" src="https://img.shields.io/badge/nvidia-gtx_1660_TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/amd-Ryzen%205%202600-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 <img align="left" alt="" src="https://img.shields.io/badge/windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=%23FFFFFF" />
 
-
-
-<br>
-
-
+<br><br>
 
 ### Other Platforms
 [<img align="left" alt="polcats.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
