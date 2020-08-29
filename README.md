@@ -27,10 +27,16 @@
 
 <br />
 <br />
+
+### Follow me, I always follow back!
+![GitHub followers](https://img.shields.io/github/followers/polcats?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Updates&style=for-the-badge)
+
+<br />
 <br />
 
+### GitHub Statisctics
 <img align="left" alt="polcats's Github Stats" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" /> <img align="left" alt="polcats's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&layout=compact" />
-
 
 [website]: https://www.polcats.tech
 [linkedin]: https://www.linkedin.com/in/polcats/
