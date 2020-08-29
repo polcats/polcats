@@ -35,15 +35,14 @@
 <img alt="" src="https://img.shields.io/badge/GitLab%20-%23FCA121.svg?&style=flat-square&logo=gitlab&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=flat-square&logo=github&logoColor=%23FFFFFF" />
 
-<br><br>
+</p>
 
 ### Workspace
-
+<p>
 <img alt="" src="https://img.shields.io/badge/Nvidia-GTX_1660_TI-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/AMD-Ryzen%205%202600-%23ED1C24.svg?&style=flat-square&logo=amd&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=flat-square&logo=windows&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
-
 </p>
 
 <br><br>
