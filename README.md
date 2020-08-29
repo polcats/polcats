@@ -4,47 +4,47 @@
 - I worked as a C++ software engineer for 2 years :alien: 
 - I create random projects that pique my interest :art:
 
-### Tech Stack
-<img align="left" alt="" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/js-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" alt="" src="https://img.shields.io/badge/ts%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+### Technologies I work with...
+<img align="left" alt="" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
+<img align="left" alt="" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=flat-square&logo=sass&logoColor=white" />
 
 <br><br>
 
-<img align="left" alt="" src="https://img.shields.io/badge/expo%20-%2320232a.svg?&style=for-the-badge&logo=expo&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="" src="https://img.shields.io/badge/android_studio%20-%233DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=%23000000" />
+<img align="left" alt="" src="https://img.shields.io/badge/Expo%20-%2320232a.svg?&style=flat-square&logo=expo&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="" src="https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="" src="https://img.shields.io/badge/Android_Studio%20-%233DDC84.svg?&style=flat-square&logo=android%20studio&logoColor=%23000000" />
 
 <br><br>
 
-<img align="left" alt="" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/nodemon%20-%2376D04B.svg?&style=for-the-badge&logo=nodemon&logoColor=%23000000" />
-<img align="left" alt="" src="https://img.shields.io/badge/mongo_db%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/jwt%20-%23000000.svg?&style=for-the-badge&logo=json%20web%20tokens&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=flat-square&logo=node.js&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/Nodemon%20-%2376D04B.svg?&style=flat-square&logo=nodemon&logoColor=%23000000" />
+<img align="left" alt="" src="https://img.shields.io/badge/Mongo_DB%20-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/ExpressJS%20-%23404d59.svg?&style=flat-square&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/JWT%20-%23000000.svg?&style=flat-square&logo=json%20web%20tokens&logoColor=%23FFFFFF" />
 
 <br><br>
 
-<img align="left" alt="" src="https://img.shields.io/badge/vs_code%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/sublime%20-%23FF9800.svg?&style=for-the-badge&logo=sublime%20text&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/VS_Code%20-%23007ACC.svg?&style=flat-square&logo=visual%20studio%20code&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/Sublime%20-%23FF9800.svg?&style=flat-square&logo=sublime%20text&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=flat-square&logo=git&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/GitBab%20-%23FCA121.svg?&style=flat-square&logo=gitlab&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=flat-square&logo=github&logoColor=%23FFFFFF" />
 
 <br><br>
 
 ### Workspace
 
-<img align="left" alt="" src="https://img.shields.io/badge/nvidia-gtx_1660_TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/amd-Ryzen%205%202600-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-<img align="left" alt="" src="https://img.shields.io/badge/windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/Nvidia-GTX_1660_TI-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/AMD-Ryzen%205%202600-%23ED1C24.svg?&style=flat-square&logo=amd&logoColor=white" />
+<img align="left" alt="" src="https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=flat-square&logo=windows&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
 
 <br><br>
 
