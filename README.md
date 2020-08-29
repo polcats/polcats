@@ -22,7 +22,7 @@
 ### Other Platforms
 [<img align="left" alt="polcats.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br>
 ### Follow me, I always follow back!
 ![GitHub followers](https://img.shields.io/github/followers/polcats?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Updates&style=for-the-badge)
