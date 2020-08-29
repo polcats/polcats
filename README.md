@@ -14,14 +14,12 @@
 <img align="left" alt="" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
 <img align="left" alt="" src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=flat-square&logo=sass&logoColor=white" />
 
-<br><br>
 
 <img align="left" alt="" src="https://img.shields.io/badge/Expo%20-%2320232a.svg?&style=flat-square&logo=expo&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="" src="https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="" src="https://img.shields.io/badge/Android_Studio%20-%233DDC84.svg?&style=flat-square&logo=android%20studio&logoColor=%23000000" />
 
-<br><br>
 
 <img align="left" alt="" src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=flat-square&logo=node.js&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/Nodemon%20-%2376D04B.svg?&style=flat-square&logo=nodemon&logoColor=%23000000" />
@@ -29,12 +27,11 @@
 <img align="left" alt="" src="https://img.shields.io/badge/ExpressJS%20-%23404d59.svg?&style=flat-square&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/JWT%20-%23000000.svg?&style=flat-square&logo=json%20web%20tokens&logoColor=%23FFFFFF" />
 
-<br><br>
 
 <img align="left" alt="" src="https://img.shields.io/badge/VS_Code%20-%23007ACC.svg?&style=flat-square&logo=visual%20studio%20code&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/Sublime%20-%23FF9800.svg?&style=flat-square&logo=sublime%20text&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=flat-square&logo=git&logoColor=%23FFFFFF" />
-<img align="left" alt="" src="https://img.shields.io/badge/GitBab%20-%23FCA121.svg?&style=flat-square&logo=gitlab&logoColor=%23FFFFFF" />
+<img align="left" alt="" src="https://img.shields.io/badge/GitLab%20-%23FCA121.svg?&style=flat-square&logo=gitlab&logoColor=%23FFFFFF" />
 <img align="left" alt="" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=flat-square&logo=github&logoColor=%23FFFFFF" />
 
 <br><br>
