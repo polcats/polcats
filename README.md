@@ -5,8 +5,8 @@
 - I create random projects that pique my interest :art:
 
 ### Find Me
-[<img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
-[<img alt="" src="https://img.shields.io/badge/stackoverflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white">][stackoverflow]
+[<img alt="" src="https://img.shields.io/badge/LinkedLn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">][linkedin]
+[<img alt="" src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?&style=flat-square&logo=stackoverflow&logoColor=white">][stackoverflow]
 
 ### Technologies I work with...
 <p>
