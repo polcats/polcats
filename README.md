@@ -56,9 +56,9 @@
 
 ### GitHub Statisctics
 <p>
-<img alt="polcats's Github Stats" width="435px" src="https://github-readme-stats-1zusj19lq.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-<img alt="polcats's Github Stats" src="https://github-readme-stats-1zusj19lq.vercel.app/api/top-langs/?username=polcats&layout=compact" />
-  </p>
+<img alt="polcats's Github Stats" width="435px" src="https://github-readme-stats-1zusj19lq.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
+<img alt="polcats's Github Stats" src="https://github-readme-stats-1zusj19lq.vercel.app/api/top-langs/?username=polcats&layout=compact&hide=html,css" />
+ </p>
 
 [website]: https://www.polcats.tech
 [linkedin]: https://www.linkedin.com/in/polcats/
