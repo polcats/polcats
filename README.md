@@ -1,8 +1,5 @@
-###  Hello! I am Paul Catalan, aka [polcats][website] :computer:
-- I'm an enthusiast of various tools and tech :wrench:
-- I'm currently work as a software engineer for mobile and web apps :iphone: 
-- I worked as a C++ software engineer for 2 years :alien: 
-- I create random projects that pique my interest :art:
+##  Hello! I am Paul Catalan, aka [polcats][website] :computer:
+
 
 ### Social Profiles
 [<img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">][linkedin]
@@ -29,6 +26,7 @@
 <img alt="" src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=flat-square&logo=node.js&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/Nodemon%20-%2376D04B.svg?&style=flat-square&logo=nodemon&logoColor=%23000000" />
 <img alt="" src="https://img.shields.io/badge/Mongo_DB%20-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=%23FFFFFF" />
+<img alt="" src="https://img.shields.io/badge/Firebase%20-%23FFFFFF.svg?&style=flat-square&logo=firebase&logoColor=yellow" />
 <img alt="" src="https://img.shields.io/badge/ExpressJS%20-%23404d59.svg?&style=flat-square&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/JWT%20-%23000000.svg?&style=flat-square&logo=json%20web%20tokens&logoColor=%23FFFFFF" />
 
@@ -52,7 +50,7 @@
 
 ### Follow me, I always follow back!
 [<img alt="" src="https://img.shields.io/github/followers/polcats?style=for-the-badge">][followers]
-[<img alt="" src="https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Followback%20Tracker&style=for-the-badge">][followback]
+[<img alt="" src="https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Tracked%20Follow%20Events&style=for-the-badge">][followback]
 
 ### GitHub Statisctics
 <p>
