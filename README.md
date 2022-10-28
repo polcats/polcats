@@ -8,16 +8,22 @@
 <img alt="" src="https://img.shields.io/badge/Expo%20-%2320232a.svg?&style=flat-square&logo=expo&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/React-JS%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
 <img alt="" src="https://img.shields.io/badge/React-Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img alt="" src="https://img.shields.io/badge/VueJS%20-%2335495E.svg?&style=flat-square&logo=vuedotjs&logoColor=%2361DAFB" />
 <img alt="" src="https://img.shields.io/badge/Firebase%20-%23FFFFFF.svg?&style=flat-square&logo=firebase&logoColor=yellow" />
 
 <img alt="" src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=flat-square&logo=node.js&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/Nodemon%20-%2376D04B.svg?&style=flat-square&logo=nodemon&logoColor=%23000000" />
 <img alt="" src="https://img.shields.io/badge/ExpressJS%20-%23404d59.svg?&style=flat-square&logo=express&logoColor=%23FFFFFF" />
-<img alt="" src="https://img.shields.io/badge/NextJS%20-%23404d59.svg?&style=flat-square&logoColor=%23FFFFFF" />
+<img alt="" src="https://img.shields.io/badge/NextJS%20-%23404d59.svg?&style=flat-square&logo=nextdotjs&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/Fastify%20-%23111111.svg?&style=flat-square&logo=fastify&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/JWT%20-%23000000.svg?&style=flat-square&logo=json%20web%20tokens&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/Django%20-%23092e20.svg?&style=flat-square&logo=django&logoColor=%23FFFFFF" />
 <img alt="" src="https://img.shields.io/badge/WordPress%20-%2321759b.svg?&style=flat-square&logo=wordpress&logoColor=%23FFFFFF" />
+ 
+<img alt="" src="https://img.shields.io/badge/PRISMA%20-%233982CE.svg?&style=flat-square&logo=prisma&logoColor=%23FFFFFF" />
+<img alt="" src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=%23FFFFFF" />
+<img alt="" src="https://img.shields.io/badge/MySQL%20-%23336791.svg?&style=flat-square&logo=mysql&logoColor=%23FFFFFF" />
+ 
  
 <img alt="" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
 <img alt="" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />
@@ -50,8 +56,8 @@
 -------------------------------------
 
 <p>
-<img alt="polcats's Github Stats" width="435px" src="https://github-readme-stats-1zusj19lq.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
-<img alt="polcats's Github Stats" src="https://github-readme-stats-1zusj19lq.vercel.app/api/top-langs/?username=polcats&layout=compact&hide=html,css" />
+<img alt="" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&hide=html,css&layout=compact" />
 </p>
 
 [website]: https://www.polcats.tech
