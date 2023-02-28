@@ -49,16 +49,19 @@
 <img alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
 </p>
 
+<!--
 ### Follow
 [<img alt="" src="https://img.shields.io/github/followers/polcats?style=for-the-badge">][followers]
 [<img alt="" src="https://img.shields.io/github/issues-raw/polcats/FollowBackChecker?label=Tracked%20Follow%20Events&style=for-the-badge">][followback]
+-->
 
+<!--
 -------------------------------------
-
 <p>
 <img alt="" width="435px" src="https://github-readme-stats.vercel.app/api?username=polcats&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcats&hide=html,css&layout=compact" />
 </p>
+-->
 
 [website]: https://www.polcats.tech
 [linkedin]: https://www.linkedin.com/in/polcats/
