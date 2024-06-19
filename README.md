@@ -49,6 +49,12 @@
 <img alt="" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=flat-square&logo=ubuntu&logoColor=%23FFFFFF" />
 </p>
 
+<p>
+<img alt="" src="https://img.shields.io/badge/M2-Max-%23000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/RAM-32%20GB-%23000000.svg?&style=flat-square&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/MacOS%20-%23000000.svg?&style=flat-square&logo=macos&logoColor=%23FFFFFF" />
+</p>
+
 <!--
 ### Follow
 [<img alt="" src="https://img.shields.io/github/followers/polcats?style=for-the-badge">][followers]
