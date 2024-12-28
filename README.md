@@ -42,7 +42,7 @@
 
 ### Machine
 <p>
-<img alt="" src="https://img.shields.io/badge/Nvidia-GTX_4090-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/Nvidia-4090-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/AMD-Ryzen%207%209800X3D-%23ED1C24.svg?&style=flat-square&logo=amd&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/RAM-32%20GB-%23ED1C24.svg?&style=flat-square&logoColor=white" />
 <img alt="" src="https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=flat-square&logo=windows&logoColor=%23FFFFFF" />
